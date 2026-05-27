@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.Common.Data", "Company.Common.Data\Company.Common.Data.csproj", "{A1C4B5F2-1D9E-4E6F-8A3B-2C5D7E9F1A4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.Common.Data.Tests", "Company.Common.Data.Tests\Company.Common.Data.Tests.csproj", "{B2D5C6G3-2E0F-5F7G-9B4C-3D6E8F0G2B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C4B5F2-1D9E-4E6F-8A3B-2C5D7E9F1A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C4B5F2-1D9E-4E6F-8A3B-2C5D7E9F1A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C4B5F2-1D9E-4E6F-8A3B-2C5D7E9F1A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C4B5F2-1D9E-4E6F-8A3B-2C5D7E9F1A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D5C6G3-2E0F-5F7G-9B4C-3D6E8F0G2B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D5C6G3-2E0F-5F7G-9B4C-3D6E8F0G2B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D5C6G3-2E0F-5F7G-9B4C-3D6E8F0G2B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D5C6G3-2E0F-5F7G-9B4C-3D6E8F0G2B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+EndGlobalSection
+EndGlobal
